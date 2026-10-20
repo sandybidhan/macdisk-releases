@@ -9,21 +9,23 @@ Releases** at the top of this page.
 
 ## Downloads
 
-**CheckMac isn't available yet.** Releases will be published at
-[checkmac.app](https://checkmac.app) and listed under [Releases](../../releases)
-as signed and notarized disk images.
+Download the latest version from [checkmac.app](https://checkmac.app) or from
+[Releases](../../releases). Each release is a disk image signed and notarized by
+Apple: open it and drag CheckMac to Applications.
 
 CheckMac requires macOS Sonoma 14 or later.
 
 ## What CheckMac does
 
 - Sunburst and treemap maps of any folder or volume
-- A sortable, searchable file browser
+- Suggested Cleanup: caches and build output that a tool rebuilds, each explained
 - A Discard Pile for reviewing cleanup candidates before anything moves to the Trash
+- A sortable contents list, searchable across the whole scan
 - Saved scan snapshots you can reopen later
 
-Scanning, browsing and the Discard Pile are free. A license unlocks moving
-items to the Trash and comparing scans over time.
+Scanning, the disk map, Suggested Cleanup, the Discard Pile and snapshots are
+free. CheckMac Pro ($29.99 USD, one-time) adds moving items to the Trash,
+comparing scans over time and the full contents list.
 
 ## Privacy
 
